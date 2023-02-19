@@ -1,0 +1,24 @@
+h2{
+    font-size: 40px;
+    font-weight: bold;
+    color:black ;
+    text-align: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+input{
+    width:270px;
+height: 39px;
+background-color:rgb(95, 85, 85);
+border: 2px solid whitesmoke;
+border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+
+}
+button{
+    height: 43px;
+    border: 1px solid whitesmoke;
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+
+}

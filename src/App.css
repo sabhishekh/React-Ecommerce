@@ -1,0 +1,45 @@
+
+body{
+  background-color:burlywood;
+  background-size: cover;
+}
+  
+
+  
+h1{
+  color:blueviolet;
+  font-size:35px;
+  font-weight: bold;
+  margin-left: 70px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-align: center;
+}
+.main-heading{
+  border: 1px solid whitesmoke;
+  background-color:black;
+  border-radius: 30px;
+cursor: pointer;
+
+
+
+  
+
+}
+.main-heading:hover{
+  background-color:silver;
+}
+.card-items{
+display: flex;
+align-items: center;
+justify-content: center;
+
+flex-wrap: wrap;
+
+
+
+}
+
+button{
+  margin:0px 20px;
+
+}
